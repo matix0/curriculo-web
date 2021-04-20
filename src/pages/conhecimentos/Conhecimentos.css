@@ -1,0 +1,25 @@
+.blocoSuperior {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background-color: #e44907;
+    width: 105%;
+    height: 130px;
+    display: flex;
+  }
+  .textoCentralConhecimento {
+    font-family: "Roboto", sans-serif;
+    padding-top: 15%;
+    padding-bottom: 15%;
+  }
+  .textoCentralConhecimento span {
+    font-size: 170%;
+    margin-left: 10%;
+  }
+  .titulo {
+    text-align: left;
+    color: #e44907;
+    font-size: 220%;
+    margin-left: 5%;
+  }
+  

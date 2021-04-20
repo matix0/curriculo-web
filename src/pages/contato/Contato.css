@@ -1,0 +1,12 @@
+.imagensCentral {
+  margin-top: 25%;
+  width: 100%;
+  height: 100%;
+  padding-inline-start: 10%;
+  display: inline-flexbox;
+}
+.imagensCentral img {
+  padding-inline: 7%;
+  width: 10%;
+}
+
